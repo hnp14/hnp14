@@ -26,5 +26,5 @@ I'm a .NET Backend Developer focused on building maintainable, reliable, and wel
 
 ### 🤝 Connect With Me
 
-- 📧 Email: [hossein.najafi.13722@gmail.com](mailto:your.email@example.com)
+- 📧 Email: [hossein.najafi.13722@gmail.com](hossein.najafi.13722@gmail.com)
 - 💼 LinkedIn: [www.linkedin.com/in/hossein-najaf-abadi](YOUR_LINKEDIN_URL)
