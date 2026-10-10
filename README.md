@@ -25,4 +25,6 @@ I'm a .NET Backend Developer focused on building maintainable, reliable, and wel
 - Applying software design principles to real-world projects
 
 ### 🤝 Connect With Me
--Linkedin : www.linkedin.com/in/hossein-najaf-abadi
+
+- 📧 Email: [hossein.najafi.13722@gmail.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [www.linkedin.com/in/hossein-najaf-abadi](YOUR_LINKEDIN_URL)
