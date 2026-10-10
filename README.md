@@ -15,7 +15,7 @@ I'm a .NET Backend Developer focused on building maintainable, reliable, and wel
 ### 🚀 Featured Projects
 
 - **ServiceCenter** — A service center management application focused on repair workflows, service orders, and technician assignments.
-- **UserManagement** — A project focused on user management and core application development concepts.
+
 
 ### 🎯 Current Focus
 
